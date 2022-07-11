@@ -1,0 +1,38 @@
+# Meeting minutes for IETF114 unofficial side meeting Operation and Control Networks
+  See: https://trac.ietf.org/trac/ietf/meeting/wiki/114sidemeetings
+
+Time: Monday 07/25/2022, 12:30 PM, Room: Philadelphia South
+
+Contact:
+   Kiran Makhijani, kiranm@futurewei.com
+
+Note taker:
+   TBD
+
+Meeting Description:
+   Discussion on Operations and Control Networks (OCNs)
+
+More Information:
+   High-precision network operations are critical for automation in different verticals. We would like to 
+     (1) explore standardization operatunities in control system and assess the community interest in this work
+     (2) Discuss control systems related use cases and talk about challenges where IETF scoped protocol can come handy. 
+     (3) Talk a bout a generic model which is technology-agnostic and walk through what kind of interfaces and message types 
+         will make sense. 
+
+----
+Attendees:
+TBD
+----
+Introduction:
+ TBD
+----
+Agenda:
+Presentation 1:
+
+
+----
+Presentation 2:
+ 
+
+--------
+Presentation 3:
