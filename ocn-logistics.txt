@@ -24,15 +24,24 @@ Attendees:
 TBD
 ----
 Introduction:
- TBD
+Moderator: Lijun Dong
+Material:
 ----
 Agenda:
-Presentation 1:
-
+Presentation 1: Factory automation usecases.
+Speaker: Cedric Westphal
+Material:
 
 ----
-Presentation 2:
- 
-
+Presentation 2: Remote Driving usecase.
+Speaker: Jungha Hong
+Material:
 --------
-Presentation 3:
+Presentation 3: Problem statement for operations and control systems
+Speaker: Faisal Tooba
+Material:
+--------
+Presentation 3: Reference Model operations and control systems
+Speaker: Kiran Makhijani
+Material:
+
