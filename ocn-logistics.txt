@@ -5,6 +5,7 @@ Time: Monday 07/25/2022, 12:30 PM, Room: Philadelphia South
 
 Contact:
    Kiran Makhijani, kiranm@futurewei.com
+   Lijun Dong,      lijun.dong@futurewei.com
 
 Note taker:
    TBD
@@ -25,23 +26,43 @@ TBD
 ----
 Introduction:
 Moderator: Lijun Dong
-Material:
+      Lijun Dong has been working for Futurewei since 2015. She has one published 
+      RFC in IRTF ICNRG. She is one of the voting members of ComSoc Industry 
+      Communities Board (2022-2023). She was one of the board members of the WOCC 
+      conference 2017-2018.
+Material:  (Moderator's Slides)[MeetingSlides/Introduction.pptx]
 ----
 Agenda:
 Presentation 1: Factory automation usecases.
 Speaker: Cedric Westphal
+        Cedric has been working at Futurewei since 2011 and attended his first 
+        IETF in 1999. He created a Special Interest Group in IEEE ComSoc on the 
+        topic of Industrial Networks and just chaired the 2nd workshop on Future 
+        Industrial Network Protocols earlier in July.
+
 Material:
 
-----
+--------
 Presentation 2: Remote Driving usecase.
 Speaker: Jungha Hong
+         Jungha Hong has been working as a senior researcher at ETRI in Korea 
+         since 2010. She has been attending IETF since 2014 and recently published 
+         2 RFCs in IRTF ICNRG. She also participates in ISO/IEC JTC 1 and ITU-T.
 Material:
 --------
 Presentation 3: Problem statement for operations and control systems
 Speaker: Faisal Tooba
+         Tooba is PhD student at King’s College London and completing her PhD in 
+         Telecommunications. She has been working on blockchain since 2016; 
+         working as a consultant for several blockchain start-ups. She is 
+         currently King's delegate in ETSI ISG for Permissioned Distributed Ledgers.
 Material:
 --------
 Presentation 3: Reference Model operations and control systems
 Speaker: Kiran Makhijani
+         Kiran works with Futurewei and has worked with different SDO in
+         next-gen network standardization activities. Her first IETF was in Chicago. 
+         She has been working 
+         on scenario solutions and design evolution of Industrial networks from past year.
 Material:
 
