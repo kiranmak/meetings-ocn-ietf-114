@@ -1,8 +1,8 @@
-## OCN Side meeting Details @ IETF 114
+### OCN Side meeting Details @ IETF 114
 
 Material for OCN related side meeting during IETF 114
 
-### 1. Informal meeting coordinates:
+#### 1. Informal meeting coordinates:
 
   **Schedule**: for 25th July Monday 12:30 PM to 1:20 PM
   **Webex**:  [Meeting Link Here](https://futurewei.my.webex.com/futurewei.my/j.php?MTID=m8482bdb06635d5ef021e6dcc11d1cd29)
@@ -12,9 +12,13 @@ Material for OCN related side meeting during IETF 114
 
   *Location*: Room: Philadelphia South
   
-### 2. HotRFC Pitch
+#### 2. HotRFC Pitch
 
   [Schedule 24th July Sunday 18:00](https://datatracker.ietf.org/meeting/114/materials/agenda-114-hotrfc-sessa-02#h.xvtlo4m7qmjb) 
+
+#### Etherpad
+  [NoteTaking](https://etherpad.wikimedia.org/p/OCN-side-meeting-114-notes)
+  Note taker????
   
 ### 3. Talks - Topics for Discussion
 
