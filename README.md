@@ -10,7 +10,10 @@ Material for OCN related side meeting during IETF 114
             Meeting number (access code): 2550 311 3955
             Meeting password: ocn114 (626114 from phones and video systems)
 
-  *Location*: Room: Horizon Rooftop
+  *Location*: 
+  
+           Room: Horizon Rooftop
+           
   
 #### 2. HotRFC Pitch
 
